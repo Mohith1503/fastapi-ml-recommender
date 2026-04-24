@@ -72,8 +72,12 @@ GET /recommend?user_id=1
 
 ---
 
-## 📌 Note
+## 📊 How it works
 
+- User-movie interaction matrix is created
+- Similarity is calculated between users
+- Top similar users are selected
+- Movies not watched by current user are recommended
 Model (.pkl files) are not uploaded. They are created during training.
 
 ---
