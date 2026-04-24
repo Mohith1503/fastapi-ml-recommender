@@ -26,7 +26,6 @@ An ML-based movie recommendation system built using FastAPI, leveraging similari
 
 ## 📂 Project Structure
 
-project_2/
 
 app/
 - main.py
